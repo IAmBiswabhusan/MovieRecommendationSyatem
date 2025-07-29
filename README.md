@@ -38,7 +38,7 @@ This is a content-based Movie Recommendation System built using Python and Panda
    - Uses `cosine_similarity` to compare vectors and find similar movies.
 
 6. **Recommendation**:
-   - When a user inputs a movie title, it returns the top 5 most similar movies.
+   - When a user inputs a movie title, it returns the top 5 most similar movies..
 
 ---
 
